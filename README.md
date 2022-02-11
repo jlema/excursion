@@ -7,12 +7,17 @@ Landing page for the Excursion mobile app which helps users record and share the
 Based on the following [design mockup](excursion-design-mock.webp) and [redline document spec.](excursion-redline-mock.webp)
 
 The deployed site is [here.](#)
-Here's [a screenshot of the deployed site.](#)
+Here's [a screenshot of the deployed site.](final-product.jpeg)
 
 ## Requirements
 
-- A web browser (tested on Edge 97.0.1072.76 (Official build) (64-bit))
+- A web browser (tested on Edge 98.0.1108.43 (Official build) (64-bit))
 
 ## Technologies used
+
+- HTML
+- CSS
+- Command line
+- Git and GitHub
 
 ## Install and Deployment
