@@ -6,7 +6,7 @@ Landing page for the Excursion mobile app which helps users record and share the
 
 Based on the following [design mockup](excursion-design-mock.webp) and [redline document spec.](excursion-redline-mock.webp)
 
-The deployed site is [here.](#)
+The deployed site is [here.](https://jlema.github.io/excursion/)
 Here's [a screenshot of the deployed site.](final-product.jpeg)
 
 ## Requirements
@@ -17,7 +17,26 @@ Here's [a screenshot of the deployed site.](final-product.jpeg)
 
 - HTML
 - CSS
+- Node.js
 - Command line
 - Git and GitHub
 
 ## Install and Deployment
+
+For installation and local development
+
+```bash
+npm i
+npm run build && npm run serve
+```
+
+For deployment (to GitHub pages)
+
+```bash
+npm run deploy
+```
+
+## References
+
+[How to build a static website without frameworks using npm scripts
+](https://wweb.dev/blog/how-to-create-static-website-npm-scripts/)
